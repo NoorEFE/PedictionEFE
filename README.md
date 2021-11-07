@@ -44,4 +44,3 @@ plt.show()
 plt.scatter(X_test, y_test,  color='gray')
 plt.plot(X_test, y_pred, color='red', linewidth=2)
 plt.show()
-
